@@ -1,5 +1,5 @@
 ***java***
-
+**name all file "StartClass" to make it runs perfectly fine**
 ***********************************************
      WARNING: FOR EDUCATIONAL PURPOSES ONLY
      
